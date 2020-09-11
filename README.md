@@ -1,1 +1,1 @@
-# Biomechanics.github.io
+# Biomechanics
